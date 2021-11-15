@@ -20,3 +20,35 @@ Our dataset is divided into 669 images for the train and 146 images for test
 ├── test  (669 annotated images)
 
 └── train (146 annotated images)
+
+Here is the content of the file resulting from annotations:
+
+```
+<annotation>
+        <folder>hello</folder>
+        <filename>hello.53.jpg</filename>
+        <path>/Tensorflow/workspace_mohamed/images$
+        <source>
+                <database>Unknown</database>
+        </source>
+        <size>
+                <width>640</width>
+                <height>480</height>
+                <depth>3</depth>
+        </size>
+        <segmented>0</segmented>
+        <object>
+                <name>hello</name>
+                <pose>Unspecified</pose>
+                <truncated>0</truncated>
+                <difficult>0</difficult>
+                <bndbox>
+                        <xmin>136</xmin>
+                        <ymin>176</ymin>
+                        <xmax>288</xmax>
+                        <ymax>432</ymax>
+                </bndbox>
+        </object>
+</annotation>
+
+```
