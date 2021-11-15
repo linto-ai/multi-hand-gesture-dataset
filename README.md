@@ -21,7 +21,7 @@ Our dataset is divided into 669 images for the train and 146 images for test
 
 └── train (146 annotated images)
 
-Here is the content of the file resulting from annotations:
+Here is the content of the (.xml) file resulting from annotations:
 
 ```
 <annotation>
