@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no</folder>
+	<filename>no.a780671e-1ae0-11ec-b478-84ef18797359.jpg</filename>
+	<path>/home/mohamed-linagora/Desktop/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/no/no.a780671e-1ae0-11ec-b478-84ef18797359.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>438</xmin>
+			<ymin>194</ymin>
+			<xmax>630</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

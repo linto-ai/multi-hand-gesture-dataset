@@ -1,0 +1,26 @@
+<annotation>
+	<folder>handup</folder>
+	<filename>handup.2074054a-1ae1-11ec-b478-84ef18797359.jpg</filename>
+	<path>/home/mohamed-linagora/Desktop/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/handup/handup.2074054a-1ae1-11ec-b478-84ef18797359.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>handup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>449</xmin>
+			<ymin>141</ymin>
+			<xmax>617</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

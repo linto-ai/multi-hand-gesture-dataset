@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vectory</folder>
+	<filename>vectory.3309d2e0-a8e8-11eb-b8fc-84ef18797359.jpg</filename>
+	<path>/home/mohamed-linagora/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/vectory/vectory.3309d2e0-a8e8-11eb-b8fc-84ef18797359.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vectory</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>109</ymin>
+			<xmax>196</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

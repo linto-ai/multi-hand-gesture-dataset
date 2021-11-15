@@ -1,0 +1,26 @@
+<annotation>
+	<folder>callme</folder>
+	<filename>callme.8c57ee8e-1ae1-11ec-b478-84ef18797359.jpg</filename>
+	<path>/home/mohamed-linagora/Desktop/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/callme/callme.8c57ee8e-1ae1-11ec-b478-84ef18797359.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>callme</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>405</xmin>
+			<ymin>249</ymin>
+			<xmax>578</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>
