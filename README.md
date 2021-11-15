@@ -55,5 +55,5 @@ Here is the content of the (.xml) file resulting from annotations:
 
 To use our dataset, type the following command:
 ```
-git clone 
+git clone https://github.com/linto-ai/multi-hand-gesture-dataset.git
 ```
