@@ -1,5 +1,5 @@
 # multi-hand-gesture-dataset
-Multi-hand gesture dataset contains 10 annotated hand gestures in VOC Pscal format.
+Multi-hand gesture dataset contains 10 annotated hand gestures in VOC Pscal format using [LabelImage](https://github.com/tzutalin/labelImg) tool.
 
 Our gests are presented as follows:
 1. hello
