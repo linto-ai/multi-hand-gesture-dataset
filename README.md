@@ -52,3 +52,8 @@ Here is the content of the (.xml) file resulting from annotations:
 </annotation>
 
 ```
+
+To use our dataset, type the following command:
+```
+git clone 
+```
