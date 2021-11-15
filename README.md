@@ -1,6 +1,7 @@
 # multi-hand-gesture-dataset
-Multi-hand gesture dataset contains 10 annotated hand gestures in VOC Pscal format
-our gests are presented as follows:
+Multi-hand gesture dataset contains 10 annotated hand gestures in VOC Pscal format.
+
+Our gests are presented as follows:
 1. hello
 2. hand up
 3. vectory
